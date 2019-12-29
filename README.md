@@ -1,2 +1,2 @@
-# arduino-projects
-Scrapped, or ongoing arduino projects.
+# Arduino Projects
+Scrapped, or ongoing arduino projects done.
