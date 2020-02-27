@@ -11,7 +11,7 @@ void loop() {
   analogWrite(led, brightness);
   brightness = brightness - fadeAmount;
   Serial.println(brightness);
-  if (brightness == 0){
+  if (brightn ess == 0){
     brightness = 255;
   }
   delay(20);
